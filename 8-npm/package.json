@@ -1,0 +1,18 @@
+{
+  "name": "8-npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoga Prastyo",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
